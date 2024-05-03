@@ -1,0 +1,9 @@
+Answer by an AI around 4 May 2024 03:30 (Bangkok Time GMT+7)
+
+The specific capacity or size of the table used to track bad sectors within a hard disk drive (HDD) can vary depending on factors such as the disk's firmware, manufacturer, and model. Generally, this table is a relatively small portion of the overall storage capacity of the drive and is designed to efficiently store information about bad sectors without consuming a significant amount of space.
+
+As of 2020, for modern HDDs, the capacity allocated for the table tracking bad sectors is typically quite small compared to the total storage capacity of the drive. It's often measured in megabytes or even kilobytes rather than gigabytes or terabytes.
+
+An estimate for the average capacity of this table might be in the range of tens to hundreds of megabytes, but this can vary based on the specific implementation and design choices made by the manufacturer. The actual capacity needed depends on factors such as the size of the sectors being tracked, the level of detail recorded for each bad sector, and any additional metadata associated with the tracking process.
+
+It's worth noting that manufacturers continuously improve and optimize their designs, so the capacity allocated for tracking bad sectors may change over time as technology advances. Additionally, advancements in error correction algorithms and techniques may further reduce the impact of bad sectors on overall disk performance and reliability.
